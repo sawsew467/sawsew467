@@ -12,7 +12,7 @@ const user = {
     name: "Tran Van Bao Thang",
     age: 19,
     currentUniversity: "FPT University",
-    currentTeam: "ROV Group",
+    currentTeam: "Dever Club",
 }
 ```
 <h2 align="center">📫 How to find me:</h2>

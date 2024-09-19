@@ -3,16 +3,15 @@
 <h3 align="center">A software engineer passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sawsew467" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/sawsew467" alt="tiennhm" /> </p>
 
-- ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
+- ✍ I'm a Front-end Developer
 - 💻 I'm a self taught Front-end Developer.
-- 🌱 I’m currently learning **ReactJS.**
+- 
 ## Who am I?
 ```javascript
 const user = {
     name: "Tran Van Bao Thang",
-    age: 19,
-    currentUniversity: "FPT University",
-    currentTeam: "Dever Club",
+    age: 22,
+    job: Front-end Developer
 }
 ```
 <h2 align="center">📫 How to find me:</h2>

@@ -1,19 +1,27 @@
 # 💫 About Me:
 I'm Tran Van Bao Thang, a passionate Front-end Developer with over 2 years of experience crafting cutting-edge web applications.
 
-Project Demos:
-  1. FPT University Exam Management
-- A comprehensive platform designed to enhance the efficiency of exam management and organization at FPT University Da Nang
-- Link: https://dev.nextexam.tech/
-- You can log in by this Google account: thangtvb.test@gmail.com / Passw0rd/1
-- Please don't edit the data inside, it is going to go live
-  2. Monde Forain
-- The e-commerce classifieds project allows users to list and sell a variety of items through a user-friendly online platform.
-- Link: https://mondeforain.com/en
-  3. Wetex
-- A supply chain and manufacturing platform for fashion brands
-- Link marketing site: https://wetex.com.vn/
-- Link client's product: https://wetex.tekup.vn/en
+## 🚀 Project Demos 
+### 📌 FPT University Exam Management  
+🎯 A comprehensive platform designed to enhance the efficiency of **exam management and organization** at **FPT University Da Nang**.  
+🔗 **Live Demo:** [FPT University Exam Management](https://dev.nextexam.tech/)  
+📝 **Login Credentials:**  
+  - ✉️ Email: `thangtvb.test@gmail.com`  
+  - 🔑 Password: `Passw0rd/1`  
+⚠️ *Please do not edit the data inside, as it is preparing to go live.*  
+
+---
+
+### 📌 Monde Forain  
+🛒 An **e-commerce classifieds platform** allowing users to **list and sell a variety of items** through an intuitive and user-friendly interface.  
+🔗 **Live Demo:** [Monde Forain](https://mondeforain.com/en)  
+
+---
+
+### 📌 Wetex – Fashion Supply Chain Platform  
+👕 A **supply chain & manufacturing platform** tailored for **fashion brands** to manage inventory, production, and logistics efficiently.  
+🔗 **Marketing Site:** [Wetex](https://wetex.com.vn/)  
+🔗 **Client Platform:** [Wetex Product](https://wetex.tekup.vn/en)  
 
 
 ## 🌐 Socials:

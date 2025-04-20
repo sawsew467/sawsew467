@@ -21,24 +21,24 @@
 ### FUEM – FPT University Exam Management
 A comprehensive platform that digitizes exam management at FPT University. Supports multi-role access, real-time incident tracking via WebSocket, Zalo Mini App integration, and Excel-based scheduling.
 → 2000+ students served, 40% coordination time saved, and now expanding across FPT campuses.
-🔗 **Read more:** [FPT University Exam Management](https://www.tekmium.com/en/work/fpt-university-exam-management)
+🔗 Read more: [FPT University Exam Management](https://www.tekmium.com/en/work/fpt-university-exam-management)
 
 ---
 
 ### Monde Forain
 A specialized classified ads platform for the European amusement industry. Features multilingual support, real-time messaging, seller dashboards, and scalable ad categories with performance-first design.
 → 2000+ listings, chat-first UX, and flexible monetization with subscription plans.
-🔗 **Read more:** [Monde Forain](https://www.tekmium.com/en/work/monde-forain)  
+🔗 Read more: [Monde Forain](https://www.tekmium.com/en/work/monde-forain)  
 
 ---
 
 ### 📌 Wetex – Fashion Supply Chain Platform  
 A fast, scalable B2B e-commerce solution connecting manufacturers with international buyers. Includes dynamic pricing, multi-language routing, reusable components, and mobile-first UX.
-🔗 **Read more:** [Wetex](https://www.tekmium.com/en/work/wetex)  
+🔗 Read more: [Wetex](https://www.tekmium.com/en/work/wetex)  
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/SawSew467/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/b%E1%BA%A3o-th%E1%BA%AFng-tr%E1%BA%A7n-v%C4%83n-274330243/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@baothangtranvan4606) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thangtvb.dev@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/SawSew467/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/b%E1%BA%A3o-th%E1%BA%AFng-tr%E1%BA%A7n-v%C4%83n-274330243/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@baothangtranvan4606) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thangtvb.dev@gmail.com) 
 
 # 💻 Tech Stack:
 ### Frontend

@@ -1,27 +1,39 @@
-# 💫 About Me:
-I'm Tran Van Bao Thang, a passionate Front-end Developer with over 2 years of experience crafting cutting-edge web applications.
-
-## 🚀 Project Demos 
-### 📌 FPT University Exam Management  
-🎯 A comprehensive platform designed to enhance the efficiency of **exam management and organization** at **FPT University Da Nang**.  
-🔗 **Live Demo:** [FPT University Exam Management](https://dev.nextexam.tech/)  
-📝 **Login Credentials:**  
-  - ✉️ Email: `thangtvb.test@gmail.com`  
-  - 🔑 Password: `Passw0rd/1`  
-⚠️ *Please do not edit the data inside, as it is preparing to go live.*  
+<h1 align="center">Hi 👋, I'm a Fullstack Developer</h1>
+<p align="center">
+  <strong>Specializing in building scalable, fast, and modern web applications with a focus on Next.js and React ecosystem.</strong><br/>
+  <em>Over 2 years of hands-on experience in fullstack web development.</em>
+</p>
 
 ---
 
-### 📌 Monde Forain  
-🛒 An **e-commerce classifieds platform** allowing users to **list and sell a variety of items** through an intuitive and user-friendly interface.  
-🔗 **Live Demo:** [Monde Forain](https://mondeforain.com/en)  
+## 🚀 About Me
+
+- 🔭 I'm currently working on real-world projects involving performance optimization, scalable architecture, and seamless UI/UX.
+- 🌱 Constantly exploring better practices in **Next.js**, **React ecosystem**, and modern backend stacks.
+- 🛠️ My main stack: **Next.js**, **Tailwind CSS**, **React Native**, **Node.js**, **MongoDB**, **Firebase**, and more.
+- 💼 Fullstack developer at [Wolf Logic](https://wolflogic.co.uk/)
+- 📫 Reach me at: **thangtvb.dev@gmail.com**
+
+---
+
+## 🚀 Recent Projects
+### FUEM – FPT University Exam Management
+A comprehensive platform that digitizes exam management at FPT University. Supports multi-role access, real-time incident tracking via WebSocket, Zalo Mini App integration, and Excel-based scheduling.
+→ 2000+ students served, 40% coordination time saved, and now expanding across FPT campuses.
+🔗 **Read more:** [FPT University Exam Management](https://www.tekmium.com/en/work/fpt-university-exam-management)
+
+---
+
+### Monde Forain
+A specialized classified ads platform for the European amusement industry. Features multilingual support, real-time messaging, seller dashboards, and scalable ad categories with performance-first design.
+→ 2000+ listings, chat-first UX, and flexible monetization with subscription plans.
+🔗 **Read more:** [Monde Forain](https://www.tekmium.com/en/work/monde-forain)  
 
 ---
 
 ### 📌 Wetex – Fashion Supply Chain Platform  
-👕 A **supply chain & manufacturing platform** tailored for **fashion brands** to manage inventory, production, and logistics efficiently.  
-🔗 **Marketing Site:** [Wetex](https://wetex.com.vn/)  
-🔗 **Client Platform:** [Wetex Product](https://wetex.tekup.vn/en)  
+A fast, scalable B2B e-commerce solution connecting manufacturers with international buyers. Includes dynamic pricing, multi-language routing, reusable components, and mobile-first UX.
+🔗 **Read more:** [Wetex](https://www.tekmium.com/en/work/wetex)  
 
 
 ## 🌐 Socials:
@@ -29,6 +41,45 @@ I'm Tran Van Bao Thang, a passionate Front-end Developer with over 2 years of ex
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frontend
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawsew467&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

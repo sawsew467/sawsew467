@@ -12,7 +12,7 @@
 - 🌱 Constantly exploring better practices in **Next.js**, **React ecosystem**, and modern backend stacks.
 - 🛠️ My main stack: **Next.js**, **Tailwind CSS**, **React Native**, **Node.js**, **MongoDB**, **Firebase**, and more.
 - 💼 Full-stack developer at [Wolf Logic](https://wolflogic.co.uk/)
-- 💼 Founder at [Tekmium](https://www.tekmium.com/en)
+- 💼 Founder at [Tekmium](https://www.tekmium.com/)
 - 📫 Reach me at: **thangtvb.dev@gmail.com**
 
 ---
@@ -21,20 +21,20 @@
 ### FUEM – FPT University Exam Management
 A comprehensive platform that digitizes exam management at FPT University. Supports multi-role access, real-time incident tracking via WebSocket, Zalo Mini App integration, and Excel-based scheduling.
 → 2000+ students served, 40% coordination time saved, and now expanding across FPT campuses.
-[Read more...](https://www.tekmium.com/en/work/fpt-university-exam-management)
+[Read more...](https://www.tekmium.com/work/fpt-university-exam-management)
 
 ---
 
 ### Monde Forain
 A specialized classified ads platform for the European amusement industry. Features multilingual support, real-time messaging, seller dashboards, and scalable ad categories with performance-first design.
 → 2000+ listings, chat-first UX, and flexible monetization with subscription plans.
-[Read more...](https://www.tekmium.com/en/work/monde-forain)  
+[Read more...](https://www.tekmium.com/work/monde-forain)  
 
 ---
 
 ### 📌 Wetex – Fashion Supply Chain Platform  
 A fast, scalable B2B e-commerce solution connecting manufacturers with international buyers. Includes dynamic pricing, multi-language routing, reusable components, and mobile-first UX.
-[Read more...](https://www.tekmium.com/en/work/wetex)  
+[Read more...](https://www.tekmium.com/work/wetex)  
 
 
 ## 🌐 Socials:

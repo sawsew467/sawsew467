@@ -85,6 +85,4 @@ A fast, scalable B2B e-commerce solution connecting manufacturers with internati
 ---
 [![](https://visitcount.itsvg.in/api?id=sawsew467&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="com.mobile.caredocs://">Mở app</a>
-<a href="com.mobile.caredocs://auth">Mở auth</a>
-<a href="com.mobile.caredocs://profile">Mở profile</a>
+

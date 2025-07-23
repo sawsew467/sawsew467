@@ -11,8 +11,6 @@
 - 🔭 I'm currently working on real-world projects involving performance optimization, scalable architecture, and seamless UI/UX.
 - 🌱 Constantly exploring better practices in **Next.js**, **React ecosystem**, and modern backend stacks.
 - 🛠️ My main stack: **Next.js**, **Tailwind CSS**, **React Native**, **Node.js**, **MongoDB**, **Firebase**, and more.
-- 💼 Full-stack developer at [Wolf Logic](https://wolflogic.co.uk/)
-- 💼 Founder at [Tekmium](https://www.tekmium.com/)
 - 📫 Reach me at: **thangtvb.dev@gmail.com**
 
 ---

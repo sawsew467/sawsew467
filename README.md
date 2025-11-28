@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Fullstack Developer</h1>
 <p align="center">
   <strong>Specializing in building scalable, fast, and modern web applications with a focus on Next.js and React ecosystem.</strong><br/>
-  <em>Over 2 years of hands-on experience in full-stack web development.</em>
+  <em>Over 3 years of hands-on experience in full-stack web development.</em>
 </p>
 
 ---
